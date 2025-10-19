@@ -179,12 +179,17 @@ Contributions are welcome\! If you'd like to contribute, please fork the reposit
 
 ## 📜 License
 
------<img width="728" height="813" alt="لقطة شاشة 2025-10-20 002009" src="https://github.com/user-attachments/assets/a1b1e34d-40a7-4f85-97d1-3d6946fc54fa" />
+<img width="728" height="813" alt="لقطة شاشة 2025-10-20 002009" src="https://github.com/user-attachments/assets/a1b1e34d-40a7-4f85-97d1-3d6946fc54fa" />
+
+
+
+
+
 
 
 ## 👤 Author
 
-**Eyad**
+**EyadAbduljalil**
 
   - **GitHub:** `(https://github.com/EyadAbduljalil)`
   - **LinkedIn:** `(https://www.linkedin.com/in/eyad-abduljalil-031689383/)`
